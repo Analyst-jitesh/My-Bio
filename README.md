@@ -1,5 +1,5 @@
-# **My-Bio**
-My personal repository
+# *My-Bio*
+**My personal repository**
 ## Interest
 1. Playing Guitar
 2. Hiking and Trekking
